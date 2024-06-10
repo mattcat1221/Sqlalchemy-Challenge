@@ -7,8 +7,7 @@
 
 ## Description
 Analyzes precipitation data in Hawaii 
-
-![app_image](Users/cmatthews/Desktop)
+<img width="625" alt="Screenshot 2024-06-10 at 2 23 31 PM" src="https://github.com/mattcat1221/Sqlalchemy-Challenge/assets/158774626/d90b086e-bdf6-4361-a1ad-e5ef50df4d6e">
 
 ## Table of Contents
 - [Installation](#installation)
