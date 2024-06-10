@@ -30,6 +30,10 @@ https://github.com/mattcat1221/Sqlalchemy-Challenge/assets/158774626/9b361986-19
 
 ## Installation
 jupyterlab
+python
+sqlalchemy 
+Matplotlib 
+Pandas
 
 ## Usage
 educational
@@ -41,7 +45,7 @@ Catherine Matthews
 MIT
 
 ## Features
-datatales and graphs 
+datatables and graphs 
 
 
 
