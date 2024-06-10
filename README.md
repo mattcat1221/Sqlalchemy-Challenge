@@ -13,7 +13,7 @@ Analyzes precipitation data in Hawaii
 
 
 <img width="625" alt="Screenshot 2024-06-10 at 2 23 31 PM" src="https://github.com/mattcat1221/Sqlalchemy-Challenge/assets/158774626/d90b086e-bdf6-4361-a1ad-e5ef50df4d6e">
-![Image 6-10-24 at 2 36 PM](https://github.com/mattcat1221/Sqlalchemy-Challenge/assets/158774626/9b361986-1963-4309-bdba-2a991eb4716e)
+https://github.com/mattcat1221/Sqlalchemy-Challenge/assets/158774626/9b361986-1963-4309-bdba-2a991eb4716e
 
 
 
