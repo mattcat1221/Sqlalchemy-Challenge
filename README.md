@@ -64,6 +64,7 @@ https://github.com/mattcat1221/Sqlalchemy-Challenge/assets/158774626/9b361986-19
 - [Contact](#contact)
 
 ## Installation
+conda env 
 jupyterlab
 python
 sqlalchemy 
