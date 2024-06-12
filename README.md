@@ -12,6 +12,25 @@ So I decided to treat myself to a long vacation in Honolulu, Hawaii! When planni
 Analyzes precipitation data in Hawaii 
 
 
+Step 2 - Climate App
+
+After completing my initial analysis, I designed a Flask API based on the queries that I have just developed.
+
+Used FLASK to create my routes.
+Routes
+
+/
+
+/api/v1.0/precipitation
+
+/api/v1.0/stations
+
+/api/v1.0/tobs
+
+/api/v1.0/<start>
+
+/api/v1.0/<start>/<end>
+
 https://share.icloud.com/photos/097BvJ6_fc5qHoHBdkqA5Z_yA
 https://github.com/mattcat1221/Sqlalchemy-Challenge/assets/158774626/9df647bb-a437-454d-b161-75e438e4fd09)
 
