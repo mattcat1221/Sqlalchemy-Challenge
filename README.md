@@ -10,7 +10,13 @@
 ## Description
 Step 1 - Analyzed precipitation data in Hawaii.
 
-So I decided to treat myself to a long vacation in Honolulu, Hawaii! When planning a trip, I need to do a climate analysis of the area. The following describes what I need to do.Step 1 - Climate Analysis and ResearchFirst, I did a basic climate analysis using Python and SQLAlchemy and examined data from the climate database I found.Select the start and end date of the trip. The vacation time is about 3-15 days in total.I used SQLAlchemy's create_engine to connect to the sqlite database.Used SQLAlchemy's automap_base() function to map tables to classes and store a reference to classes called Station and Measurement.Precipitation analysisSuggested query to retrieve last 12 months of precipitation data.Only date and prcp values ​​are selected.Loaded the search results into a Panda DataFrame and set the index on the date column.DataFrame values ​​sorted by date.Graph the results using the DataFrame's graph method..
+Climate Analysis and ResearchFirst, 
+Step 1. I did a basic climate analysis using Python and SQLAlchemy and examined data from the climate database I found.Select the start and end date of the trip. The vacation time is about 3-15 days in total. 
+Step 2. I used SQLAlchemy's create_engine to connect to the sqlite database.Used SQLAlchemy's automap_base() function to map tables to classes and store a reference to classes called Station and Measurement.Precipitation analysisSuggested query to retrieve last 12 months of precipitation data.Only date and prcp values ​​are selected.
+Step 3. I Loaded the search results into a Panda DataFrame and set the index on the date column.
+Step 4. Display dataFrame values ​​sorted by date.
+Step 5. Graph the results using the DataFrame's graph method..
+
 Analyzes precipitation data in Hawaii 
 
 
