@@ -5,6 +5,8 @@
 ## Website: 
 [website](https://github.com/mattcat1221/Sqlalchemy-Challenge/blob/main/README.md)
 
+![Website](mockup.png)
+
 ## Description
 Step 1 - Analyzed precipitation data in Hawaii.
 
